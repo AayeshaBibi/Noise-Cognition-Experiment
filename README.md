@@ -47,7 +47,7 @@ Noise-Cognition-Experiment/
 │
 ├── noise_study.psyexp        # PsychoPy experiment file
 ├── cafe_noise.wav            # Audio stimulus
-├── conditions.xlxs           # experiment file conditions
+├── conditions.xlsx           # experiment file conditions
 ├── data/                     # Collected participant data (CSV files)
 ├── Report.txt                # Full research report
 
